@@ -6,4 +6,4 @@ The Ansible ACI modules provide a user-friendly interface to managing your ACI e
 
 More information about the modules and roadmap can be found on: https://github.com/ansible/community/wiki/Network:-ACI
 
-Here you can find some playbooks that can helps you get up to speed.
+Here you can find some playbooks that can helps you to get up to speed.
