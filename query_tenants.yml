@@ -1,7 +1,7 @@
 # ACI playbook
 ---
 - name: playbook for aci testing
-  hosts: apic_234
+  hosts: apic
   gather_facts: no
 
   tasks:
@@ -20,5 +20,3 @@
 
     - name: print list tenants names
       debug: var=tenant_names
-
-
