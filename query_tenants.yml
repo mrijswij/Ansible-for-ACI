@@ -20,5 +20,3 @@
 
     - name: print list tenants names
       debug: var=tenant_names
-
-
